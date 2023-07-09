@@ -10,7 +10,7 @@ import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
 
-
+///hahaaahaha
 public class FrontServlet extends HttpServlet {
     HashMap<String,Mapping> mappinUrls;
 
